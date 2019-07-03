@@ -1,0 +1,23 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "first demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokenmore/demo1.git"
+  },
+  "keywords": [
+    "qt",
+    "first"
+  ],
+  "author": "qt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tokenmore/demo1/issues"
+  },
+  "homepage": "https://github.com/tokenmore/demo1#readme"
+}
